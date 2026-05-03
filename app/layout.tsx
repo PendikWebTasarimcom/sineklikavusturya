@@ -3,9 +3,9 @@ import './globals.css';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://sineklikavusturya.com'),
-  title: 'XXXX Sineklik Avusturya Hızlı Teslimat',
+  title: 'Sineklik Avusturya - Plise Perde ve Jaluzi Sistemleri',
   description:
-    'XXXX Avusturya\'ya plise sineklik, jaluzi perde, zip perde sistemleri. 4-10 günde adrese teslim, premium kalite, profesyonel hizmet garantisi.',
+    'Avusturya\'ya plise sineklik, jaluzi perde, zip perde sistemleri. 4-10 günde adrese teslim, premium kalite, profesyonel hizmet garantisi.',
   keywords:
     'sineklik avusturya, avusturya sineklik, plise sineklik, plise perde, jaluzi perde, zip perde, honeycomb perde, düet perde',
   authors: [{ name: 'Sineklik Avusturya', url: 'https://sineklikavusturya.com' }],
@@ -34,16 +34,16 @@ export const metadata: Metadata = {
     locale: 'tr_TR',
     alternateLocale: 'de_AT',
     url: 'https://sineklikavusturya.com',
-    title: 'XXXX Sineklik Avusturya Hızlı Teslimat',
+    title: 'Sineklik Avusturya - Plise Perde ve Jaluzi Sistemleri',
     description:
-      'XXXX Avusturya\'ya plise sineklik, jaluzi perde, zip perde sistemleri. 4-10 günde adrese teslim, premium kalite, profesyonel hizmet garantisi.',
+      'Avusturya\'ya plise sineklik, jaluzi perde, zip perde sistemleri. 4-10 günde adrese teslim, premium kalite, profesyonel hizmet garantisi.',
     siteName: 'Sineklik Avusturya',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'XXXX Sineklik Avusturya Hızlı Teslimat',
+    title: 'Sineklik Avusturya - Plise Perde ve Jaluzi Sistemleri',
     description:
-      'XXXX Avusturya\'ya plise sineklik, jaluzi perde, zip perde sistemleri. 4-10 günde adrese teslim, premium kalite, profesyonel hizmet garantisi.',
+      'Avusturya\'ya plise sineklik, jaluzi perde, zip perde sistemleri. 4-10 günde adrese teslim, premium kalite, profesyonel hizmet garantisi.',
     creator: '@SineklikAvusturya',
   },
   verification: {
